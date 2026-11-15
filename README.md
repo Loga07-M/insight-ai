@@ -64,3 +64,8 @@ Note: SQLite on that host resets on redeploy; use a VM/Docker with a mounted `da
 app.py, config.py | services/ (news, llm_provider, ai, gnani_stt, gnani_tts, briefing, podcast) |
 database/db.py | components/ (sidebar, dashboard, pages, news_cards, audio_player, data) | assets/style.css |
 tests/ | tools/live_check.py
+
+
+LIVE LINK 
+
+https://insight-aigit-34kquguabvzkae7guzky7j.streamlit.app/
